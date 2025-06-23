@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jester.Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cfcd6859b4bdaadd0f6fb91375280277edbf806")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cec326d2781698b206dcdf39f3c83b3a9db049")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jester.Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jester.Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
