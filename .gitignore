@@ -1,0 +1,21 @@
+# Rider
+.idea/
+*.sln.iml
+
+# .NET build output
+bin/
+obj/
+
+# Rider-specific build files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.csproj.user
+*.csproj.DotSettings
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.lock.json
+*.nuget.info
