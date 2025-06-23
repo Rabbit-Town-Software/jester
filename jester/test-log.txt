@@ -1,0 +1,1 @@
+[91;1m[Fatal][0m | /home/case/RiderProjects/jester/jester/test/DebugTest.cs | Method: TestFatalLog | Line: 37 | Testing Fatal log 
