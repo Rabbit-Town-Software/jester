@@ -1,0 +1,14 @@
+/home/case/RiderProjects/jester/Jester.Engine/bin/Debug/net9.0/Jester.Engine
+/home/case/RiderProjects/jester/Jester.Engine/bin/Debug/net9.0/Jester.Engine.deps.json
+/home/case/RiderProjects/jester/Jester.Engine/bin/Debug/net9.0/Jester.Engine.runtimeconfig.json
+/home/case/RiderProjects/jester/Jester.Engine/bin/Debug/net9.0/Jester.Engine.dll
+/home/case/RiderProjects/jester/Jester.Engine/bin/Debug/net9.0/Jester.Engine.pdb
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.GeneratedMSBuildEditorConfig.editorconfig
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.AssemblyInfoInputs.cache
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.AssemblyInfo.cs
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.csproj.CoreCompileInputs.cache
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.dll
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/refint/Jester.Engine.dll
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.pdb
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/Jester.Engine.genruntimeconfig.cache
+/home/case/RiderProjects/jester/Jester.Engine/obj/Debug/net9.0/ref/Jester.Engine.dll

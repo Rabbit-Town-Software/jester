@@ -1,0 +1,18 @@
+<type>(scope): short summary
+
+[optional body: explain what and why]
+
+[optional footer: issue link, breaking change note, etc]
+
+----
+Types:
+  feat     → New feature
+  fix      → Bug fix
+  chore    → Tooling/infra/structure
+  refactor → Logic rewrite, no behavior change
+  docs     → Documentation
+  test     → Tests only
+  style    → Formatting/whitespace
+  perf     → Performance change
+  build    → Build system
+  ci       → CI/CD pipelines

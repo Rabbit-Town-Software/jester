@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>jester</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Boot\" />
+      <Folder Include="Core\Debug\" />
+      <Folder Include="Core\Events\" />
+      <Folder Include="Core\GameLoop\" />
+      <Folder Include="Core\Input\" />
+      <Folder Include="Core\ModuleLoader\" />
+      <Folder Include="Data\ContentValidation\" />
+      <Folder Include="Data\DataSystem\" />
+      <Folder Include="Data\Localization\" />
+      <Folder Include="Data\Plugins\" />
+      <Folder Include="Data\ProceduralContent\" />
+      <Folder Include="Diagnostics\DebugConsole\" />
+      <Folder Include="Diagnostics\Metrics\" />
+      <Folder Include="Entities\Characters\Backgrounds\" />
+      <Folder Include="Entities\Characters\Flaws\" />
+      <Folder Include="Entities\Characters\Morality\" />
+      <Folder Include="Entities\Characters\PartySystem\" />
+      <Folder Include="Entities\Characters\Perks\" />
+      <Folder Include="Entities\Characters\Relationships\" />
+      <Folder Include="Entities\Characters\Skills\" />
+      <Folder Include="Entities\Characters\Stats\" />
+      <Folder Include="Entities\Conditions\" />
+      <Folder Include="Entities\ECS\" />
+      <Folder Include="Entities\EntityRelationships\" />
+      <Folder Include="Entities\Modifiers\" />
+      <Folder Include="Entities\Tags\" />
+      <Folder Include="Persistance\SaveSystem\" />
+      <Folder Include="Persistance\ScopedPersistance\" />
+      <Folder Include="Persistance\StateTracking\" />
+      <Folder Include="Rendering\Animation\" />
+      <Folder Include="Rendering\Physics\" />
+      <Folder Include="Rendering\RenderingSystem\" />
+      <Folder Include="Rendering\SceneSystem\" />
+      <Folder Include="Rendering\TiledSharp2Jester\" />
+      <Folder Include="Rendering\VisualEffects\" />
+      <Folder Include="Shared\Config\" />
+      <Folder Include="Shared\Extenstions\" />
+      <Folder Include="Shared\FileIO\" />
+      <Folder Include="Shared\Math\" />
+      <Folder Include="Systems\AI\NPCSchedules\" />
+      <Folder Include="Systems\Combat\AICombat\" />
+      <Folder Include="Systems\Combat\APSystem\" />
+      <Folder Include="Systems\Combat\CombatConditions\" />
+      <Folder Include="Systems\Combat\EffectResolution\" />
+      <Folder Include="Systems\Combat\InitiativeSystem\" />
+      <Folder Include="Systems\Combat\TurnSystem\" />
+      <Folder Include="Systems\Combat\Weapons\" />
+      <Folder Include="Systems\Dialogue\" />
+      <Folder Include="Systems\Dice\" />
+      <Folder Include="Systems\Economy\" />
+      <Folder Include="Systems\Inventory\" />
+      <Folder Include="Systems\Magic\" />
+      <Folder Include="Systems\Quest\" />
+      <Folder Include="Systems\Survival\" />
+      <Folder Include="World\DayNight\" />
+      <Folder Include="World\Interaction\" />
+      <Folder Include="World\Spawning\" />
+      <Folder Include="World\Time\" />
+      <Folder Include="World\Weather\" />
+      <Folder Include="World\WorldState\" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+[git]
+conventional_commits = true
+filter_unconventional = true
+
+[changelog]
+header = "# Changelog\n\n"
+body = ""
+trim = true
+sort_commits = "newest"
+
+commit_parsers = [
+  { message = "^feat", group = "Features" },
+  { message = "^fix", group = "Bug Fixes" },
+  { message = "^refactor", group = "Refactoring" },
+  { message = "^perf", group = "Performance" },
+  { message = "^style", group = "Styling" },
+  { message = "^docs", group = "Documentation" },
+  { message = "^test", group = "Testing" },
+  { message = "^chore", group = "Maintenance" },
+  { message = "^build", group = "Build System" },
+  { message = "^ci", group = "CI/CD" }
+]
