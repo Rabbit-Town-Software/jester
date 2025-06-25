@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <OutputType>Exe</OutputType>
+        <OutputType>Library</OutputType>
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
@@ -9,7 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Boot\" />
       <Folder Include="Core\Debug\" />
       <Folder Include="Core\Events\" />
       <Folder Include="Core\GameLoop\" />
@@ -70,5 +69,5 @@
       <Folder Include="World\Weather\" />
       <Folder Include="World\WorldState\" />
     </ItemGroup>
-
+  
 </Project>

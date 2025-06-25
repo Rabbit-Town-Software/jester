@@ -1,10 +1,11 @@
-namespace Jester.Logging;
-
-public enum Label
+namespace Jester.Diagnostics.Logging
 {
-    Debug,
-    Info,
-    Warning,
-    Critical,
-    Fatal
+    public enum Label
+    {
+        Debug,
+        Info,
+        Warning,
+        Critical,
+        Fatal
+    }
 }
